@@ -11,6 +11,10 @@ export class ACompComponent implements OnInit {
         this.router = router;
     }
 
+    test() {
+
+    }
+
     ngOnInit(): void {
     }
 
